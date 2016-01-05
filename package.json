@@ -1,5 +1,5 @@
 {
-  "name": "angular2-file-upload-directive",
+  "name": "angular2-file-api-directive",
   "version": "1",
   "description": "Basic Angular2 File Upload Directive",
   "devDependencies": {
